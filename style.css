@@ -1,0 +1,80 @@
+body {
+  background-image: url(fotky/pozadiwebu.jpg);
+}
+
+h1 {
+  color: bisque;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(190, 114, 22);
+  text-align: center;
+}
+
+.li1 {
+  color: coral;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.li1 p3 {
+  color: rgb(167, 135, 53);
+  font-weight: 640;
+  text-decoration: underline;
+}
+
+.li2 {
+  color: darkslateblue;
+  font-weight: 700;
+}
+
+.li2 p3 {
+  color: rgb(167, 135, 53);
+  font-weight: 500;
+  text-decoration: underline;
+  font-weight: 650;
+  font-style: italic;
+  
+}
+
+.info {
+  background-image: url(fotky/pozadi.jpg);
+  width: 150px;
+  height: 100px;
+}
+
+li {
+  text-align: left;
+  list-style: none;
+}
+
+.konicky {
+  background-color: bisque;
+  padding: 0;
+  margin: 0;
+}
+}
+
+p li {
+  text-decoration: underline;
+}
+
+.bydliste {
+  background-color: dimgray;
+  padding: 0;
+  margin: 0;
+}
+}
+
+.kurz {
+background-color: darkcyan;
+  padding: 0;
+  margin: 0;
+}
+
+p1 li {
+}
+
+p2 li {
+}
